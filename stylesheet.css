@@ -1,0 +1,235 @@
+.likeBack{
+  background-color: aqua;
+  color: blue;
+  font-size: 50px;
+  margin-top: 100px;
+}
+
+
+
+
+.now {
+  margin-top: 800px;
+  background-color: tomato;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+
+
+
+
+.natumeLink{
+color: rgb(255, 0, 0);
+font-size: 60px;
+}
+
+
+.characterLink{
+  color:rgb(10, 15, 255);
+  background-color:aqua;
+  margin-top: 0px;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+
+
+.characterChoice1{
+  height: 100px;
+  
+}
+.characterChoice2{
+  height: 100px;
+}
+
+.arr {
+  height: 200px;
+}
+
+
+
+
+
+
+.aqua {
+  color:black;
+  background-color: aqua;
+  text-align: center;
+  font-size: 60px;
+}
+
+.purpose {
+  margin-top: 100px;
+  text-align: center;
+  background-color: aqua;
+  font-size: 50px;
+}
+
+.span1 {
+  color: rgb(255, 0, 0);
+  background-color: chartreuse;
+  margin-left: 150px;
+  margin-right: 110px;
+}
+.time {
+  color: rgb(255, 0, 0);
+  background-color: chartreuse;
+  margin-right: 50px;
+}
+.btntitle{
+  color: rgb(255, 0, 0);
+  background-color: chartreuse;
+  
+}
+
+.a{
+  resize: none;
+  width: 400px;
+  height: 50px
+  
+}
+.b{
+  
+    width: 560px;
+    height: 50px;
+   
+}
+
+.c {
+  width: 300px;
+    height: 55px;
+    background-color: chartreuse;
+    border-radius: 5px;
+    margin-left: 100px;
+    box-shadow:0px 10px rgb(2, 37, 37);
+  
+}
+.c:active{
+  box-shadow: none;
+  position: relative;
+  top: 10px;
+}
+
+.supplement{
+  text-align: center;
+  font-size: 50px;
+  background-color: aqua;
+}
+
+.text1 {
+  color: coral;
+
+}
+
+.text2 {
+  color: coral;
+}
+
+.textmen1 {
+color:fuchsia;
+}
+
+.textmen2 {
+color:fuchsia;
+}
+
+.size {
+  width:40%;
+  margin-left: 45px;
+
+}
+
+
+
+.message {
+padding: 0 100px 0 100px;
+}
+
+.message2 {
+  padding: 0 100px 0 100px;
+  }
+
+  .message3 {
+    padding: 0 100px 0 100px;
+    }
+
+.color1 {
+  color: rgb(247, 0, 205);
+}
+
+.color2 {
+  color:rgb(80, 160, 0);
+}
+
+
+
+.itemWomen {
+height: 450px;
+
+}
+
+
+
+.misaki {
+font-size: 50px;
+color:rgb(255, 79, 167);
+background-color: rgb(2, 37, 37);
+width: 200px;
+margin-left: 100px;
+
+}
+
+
+.itemMen {
+  height: 450px;
+  
+  }
+  
+  
+  
+  .kaito {
+  font-size: 50px;
+  color:rgb(10, 15, 255);
+  background-color: rgb(255, 230, 0);
+  width: 200px;
+  margin-left: 150px;
+
+  }
+
+  .character{
+    float: left;
+    width: 25%;
+  }
+  .character2 {
+float:right;
+  }
+
+  .audioSize2 {
+ padding-left: 100px;
+  }
+
+  .voice1{
+margin-left: 50px;
+  }
+
+  .voice2{
+    margin-left: 100px;
+
+  }
+
+
+
+
+  .holdWomen{
+  position: fixed;            
+  top: 330px;            
+  z-index: 10;
+  height: 450px;
+  
+
+  }
+
+  
